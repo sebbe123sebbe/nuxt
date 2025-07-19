@@ -7,6 +7,9 @@
     "start": "nuxt preview"
   },
   "dependencies": {
+    "@nuxtjs/i18n": "10.0.0",
+    "@nuxtjs/supabase": "1.5.3",
+    "@unlok-co/nuxt-stripe": "5.0.0",
     "nuxt": "workspace:*"
   },
   "engines": {
